@@ -1,5 +1,5 @@
 
-# Azure NetApp Files Quota Checker Script
+# Azure NetApp Files Quota Check Script
 
 ## 📄 Overview
 
