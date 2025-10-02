@@ -21,6 +21,7 @@ The script uses the following API version, and is set as a variable within the s
 
 $apiVersion = "2025-06-01"
 
+---
 
 ## 🔐 Azure Login Requirement
 
@@ -41,6 +42,7 @@ You can set the subscription ID dynamically in PowerShell:
 
 Or hard-code it directly—both options are included in the script.
 
+---
  ## 🔧 Example- Sorts based on regional quota
  
 <img width="2582" height="819" alt="image" src="https://github.com/user-attachments/assets/7cfe080f-896a-4f94-a554-0a3e495c251a" />
